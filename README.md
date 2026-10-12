@@ -6,7 +6,7 @@ Developer from Germany – Java/JavaFX, TypeScript/Angular, C#/.NET, a bit of Py
 **[Hausrund](https://hausrund.info)** – shopping list, pantry, meal plan and recipes for the whole household:
 shared between phones, end-to-end encrypted, works offline. No ads, no tracking.
 
-**Side projects** (learning projects, MIT Licensed):
+**Side projects** (learning projects, MIT license):
 [MiniMediaPlayer](https://github.com/Johnny-tech-droid/minimediaplayer) (JavaFX) ·
 [Mail app](https://github.com/Johnny-tech-droid/mailprojectv2) (Swing, Jakarta Mail) ·
 [E-Commerce app](https://github.com/Johnny-tech-droid/ecommerceCrossPlatform) (ASP.NET Core) ·
