@@ -1,7 +1,7 @@
 ### Hi, I'm Johnny-tech-droid 👋
 
 Developer from Germany – Java/JavaFX, TypeScript/Angular, C#/.NET, a bit of Python, and the DevOps around it
-(Docker, Caddy/Nginx, Raspberry Pi).
+(Docker, Raspberry Pi, CI/CD, Deployment).
 
 **[Hausrund](https://hausrund.info)** – shopping list, pantry, meal plan and recipes for the whole household:
 shared between phones, end-to-end encrypted, works offline. No ads, no tracking.
