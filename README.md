@@ -11,7 +11,6 @@ shared between phones, end-to-end encrypted, works offline. No ads, no tracking.
 [Mail app](https://github.com/Johnny-tech-droid/mailprojectv2) (Swing, Jakarta Mail) ·
 [E-Commerce app](https://github.com/Johnny-tech-droid/ecommerceCrossPlatform) (ASP.NET Core) ·
 [MiniDB](https://github.com/Johnny-tech-droid/newdatabasegui) ·
-[MiniText](https://github.com/Johnny-tech-droid/Textverarbeitung) ·
-[capDateCalc](https://github.com/Johnny-tech-droid/projectTardis)
+[MiniText](https://github.com/Johnny-tech-droid/Textverarbeitung)
 
 📫 contact@hausrund.info
